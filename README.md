@@ -4,9 +4,6 @@ A aplicação Gobaber Web foi desenvolvida no BootCamp da RocketSeat.
 
 Gobarber Web é aplicação React Js que consiste em cadastro de novos barbeiros e gerenciamento de atendimento aos seus clientes. O profissional de barbearia consegue organizar os seus horários tendo acesso ao dia e horários de cada dia, é um app completo que possibilita agilidade eficácia no atendimento de cada precioso cliente .
 
-![](https://github.com/brenokf/GoBarber/blob/master/Front-End/github/GoBarber.gif?raw=true)
-
-
 #### Bibliotecas Utilizadas
 
  - Axios
@@ -44,6 +41,7 @@ Gobarber Web é aplicação React Js que consiste em cadastro de novos barbeiros
 - **put('/notifications/:id')** - Confirm notification was seen
 
 ###  Como Rodar o Projeto na sua Maquina
+
 ###### Para rodar na sua maquina, recomendo o comando **yarn** ou **mpn install** acessando a raiz do projeto no comando você pode apenas dar o um dos comandos abaixo, com isso irá instalar as depencias contidas no arquivo package.json
     yarn
     npm install
